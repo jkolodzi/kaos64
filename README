@@ -1,0 +1,10 @@
+# kaos64
+Korg(R) KAOSS Pad(R) like instrument for Commodore 64 
+(version 0.01)
+Best used with a Commodore 64 and Koala Pad (or similar); VICE can emulate it with the mouse capture option.
+Up/Down = filter frequency, right/left = oscillator frequency
+Prototype alpha version. TODOs (almost everything!):
+* waveform change
+* filter change
+* scales
+* convert to 6502 machine code
